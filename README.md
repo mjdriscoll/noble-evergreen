@@ -1,4 +1,4 @@
 noble-evergreen
 ===============
 
-NOBLE's custom evergreen files, scripts, tools etc.
+NOBLE's custom files, scripts, tools, etc. for our Evergreen system.
