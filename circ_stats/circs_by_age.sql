@@ -1,5 +1,5 @@
 -- circs_by_age.sql
--- Created for Salem who wanted circs of patrons aged 11-18.
+-- Creates count of circs by patron dob age range (age 11-18).
 
 SELECT count(acirc.id) AS "COUNT"
   FROM action.circulation acirc
